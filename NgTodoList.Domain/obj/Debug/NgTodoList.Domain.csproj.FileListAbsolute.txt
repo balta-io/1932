@@ -1,0 +1,10 @@
+C:\dev\ngtodo\src\NgTodoList\NgTodoList.Domain\obj\Debug\NgTodoList.Domain.csprojResolveAssemblyReference.cache
+C:\dev\ngtodo\src\NgTodoList\NgTodoList.Domain\obj\Debug\NgTodoList.Domain.dll
+C:\dev\ngtodo\src\NgTodoList\NgTodoList.Domain\obj\Debug\NgTodoList.Domain.pdb
+C:\dev\ngtodo\src\NgTodoList\NgTodoList.Domain\bin\Debug\NgTodoList.Domain.dll
+C:\dev\ngtodo\src\NgTodoList\NgTodoList.Domain\bin\Debug\NgTodoList.Domain.pdb
+C:\dev\ngtodo\src\NgTodoList\NgTodoList.Domain\bin\Debug\NgTodoList.Utils.dll
+C:\dev\ngtodo\src\NgTodoList\NgTodoList.Domain\bin\Debug\Ionic.Zip.dll
+C:\dev\ngtodo\src\NgTodoList\NgTodoList.Domain\bin\Debug\NgTodoList.Utils.pdb
+C:\dev\ngtodo\src\NgTodoList\NgTodoList.Domain\bin\Debug\Ionic.Zip.xml
+C:\dev\ngtodo\src\NgTodoList\NgTodoList.Domain\obj\Debug\NgTodoList.Domain.rewritten

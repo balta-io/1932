@@ -1,0 +1,11 @@
+C:\dev\ngtodo\src\NgTodoList\NgTodoList.Domain.Tests\obj\Debug\NgTodoList.Domain.Tests.csprojResolveAssemblyReference.cache
+C:\dev\ngtodo\src\NgTodoList\NgTodoList.Domain.Tests\bin\Debug\NgTodoList.Domain.Tests.dll
+C:\dev\ngtodo\src\NgTodoList\NgTodoList.Domain.Tests\bin\Debug\NgTodoList.Domain.Tests.pdb
+C:\dev\ngtodo\src\NgTodoList\NgTodoList.Domain.Tests\bin\Debug\NgTodoList.Domain.dll
+C:\dev\ngtodo\src\NgTodoList\NgTodoList.Domain.Tests\bin\Debug\NgTodoList.Utils.dll
+C:\dev\ngtodo\src\NgTodoList\NgTodoList.Domain.Tests\bin\Debug\Ionic.Zip.dll
+C:\dev\ngtodo\src\NgTodoList\NgTodoList.Domain.Tests\bin\Debug\NgTodoList.Domain.pdb
+C:\dev\ngtodo\src\NgTodoList\NgTodoList.Domain.Tests\bin\Debug\NgTodoList.Utils.pdb
+C:\dev\ngtodo\src\NgTodoList\NgTodoList.Domain.Tests\bin\Debug\Ionic.Zip.xml
+C:\dev\ngtodo\src\NgTodoList\NgTodoList.Domain.Tests\obj\Debug\NgTodoList.Domain.Tests.dll
+C:\dev\ngtodo\src\NgTodoList\NgTodoList.Domain.Tests\obj\Debug\NgTodoList.Domain.Tests.pdb

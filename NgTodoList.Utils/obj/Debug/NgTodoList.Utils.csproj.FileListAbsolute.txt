@@ -1,0 +1,7 @@
+C:\dev\ngtodo\src\NgTodoList\NgTodoList.Utils\bin\Debug\NgTodoList.Utils.dll
+C:\dev\ngtodo\src\NgTodoList\NgTodoList.Utils\bin\Debug\NgTodoList.Utils.pdb
+C:\dev\ngtodo\src\NgTodoList\NgTodoList.Utils\bin\Debug\Ionic.Zip.dll
+C:\dev\ngtodo\src\NgTodoList\NgTodoList.Utils\bin\Debug\Ionic.Zip.xml
+C:\dev\ngtodo\src\NgTodoList\NgTodoList.Utils\obj\Debug\NgTodoList.Utils.csprojResolveAssemblyReference.cache
+C:\dev\ngtodo\src\NgTodoList\NgTodoList.Utils\obj\Debug\NgTodoList.Utils.dll
+C:\dev\ngtodo\src\NgTodoList\NgTodoList.Utils\obj\Debug\NgTodoList.Utils.pdb
