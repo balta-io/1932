@@ -1,13 +1,23 @@
-## 1932 - DESENVOLVENDO APPS HÍBRIDAS COM ANGULARJS E WEBAPI ##
-Neste treinamento veremos como criar uma aplicação Web híbrida
+# 1932 - Desenvolvendo Apps Híbridas com AngularJS e WebAPI #
+Repositório do curso **Desenvolvendo Apps Híbridas com AngularJS e WebAPI** da plataforma https://balta.io.
 
-### Conteúdo Programático ###
-* Introdução
+Autor: André Baltieri
+
+Link: https://balta.io/cursos/1932
+
+## Projeto construído com: ##
+* C#
+* JavaScript
+* API REST
+* Angular
+
+## Conteúdo Programático ##
+ * Introdução
  * Visão Geral
  * Desenvolvendo para múltiplos devices
  * Vantagens e Desvantagens
 
-* Construindo o Back-End
+ * Construindo o Back-End
  * Estruturando o projeto
  * Criando o domínio
  * Repository Pattern
@@ -16,7 +26,7 @@ Neste treinamento veremos como criar uma aplicação Web híbrida
  * Otimizando a performance
  * Segurança e autenticação
 
-* Construindo o Front-End
+ * Construindo o Front-End
  * Estruturando a aplicação
  * Rotas e Configurações
  * Repository Pattern e Mocks
@@ -29,15 +39,12 @@ Neste treinamento veremos como criar uma aplicação Web híbrida
  * Otimizando SEO
  * Trabalhando Offline
 
-* Publicação
+ * Publicação
  * Publicando a API
  * Publicando a aplicação Web
  * Empacotando a aplicação com PhoneGap
 
-### Vídeos ###
-* http://treinamentos.andrebaltieri.net/#/courses/1932
+---
+balta.io - Develop Your Career
 
-### Assine o Site ###
-Faça este e outros treinamentos por apenas R$ 59,90 mensais! Cancele quando quiser e ainda desfrute de treinamentos mensais online, ao vivo e de graça!
-
-http://assine.andrebaltieri.net/
+Conheça todos os cursos da plataforma em https://balta.io/cursos
